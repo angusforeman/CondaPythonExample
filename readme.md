@@ -6,6 +6,13 @@ This simple Hello World example is provided to assist in containerising python w
 
 This example uses the helpful documentation at https://pythonspeed.com/articles/activate-conda-dockerfile/ 
 
+Setup used
+-
+- VS Code on Windows
+- Docker on Windows
+- Docker Python Code extension from Microsoft
+- Docker VS Code extension from Microsoft
+
 Additional notes & debug tips
 -
 If using VS Code as development environment, rather than starting development in VS Code, do the following
