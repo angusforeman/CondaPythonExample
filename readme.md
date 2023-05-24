@@ -10,8 +10,10 @@ Setup used
 -
 - VS Code on Windows
 - Docker on Windows
-- Docker Python Code extension from Microsoft
-- Docker VS Code extension from Microsoft
+- Docker VS Code extension (from Microsoft)
+- Python VS Code extension (from Microsoft)
+- Pylint VS Code extension (from Microsoft)
+- Flake8 VS Code extension (from Microsoft)
 
 Additional notes & debug tips
 -
