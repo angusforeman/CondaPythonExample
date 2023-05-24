@@ -1,5 +1,7 @@
-Conda Containerised example
+Python in Anaconda/Miniconda Container build example
 =
+The goal of this example is to provide a working example of a dockerfile and associated files that will support python workloads that require Anaconda or Miniconda built from a base Conda container image
+
 This simple Hello World example is provided to assist in containerising python workloads that assume the Conda (Miniconda or Anaconda) runtime. Conda provides support for  multiple environments python environments using the Conda Environments concept, but this can cause issues when used with containers and building docker files can be challenging due to the assumption Conda makes on a single shell instance during setup. This is due to the fact that container builds spawn multiple shell instances with each "RUN" command
 
 This example uses the helpful documentation at https://pythonspeed.com/articles/activate-conda-dockerfile/ 
